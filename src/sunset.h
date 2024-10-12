@@ -26,7 +26,7 @@
 #ifndef __SUNPOSITION_H__
 #define __SUNPOSITION_H__
 
-#include <cmath>
+#include <math.h>
 #include <ctime>
 
 #ifndef M_PI
